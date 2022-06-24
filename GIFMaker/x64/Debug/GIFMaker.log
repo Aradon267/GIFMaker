@@ -1,0 +1,10 @@
+﻿  functions.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\Arad Donenfeld\source\repos\GIFMaker\GIFMaker\functions.c(119,11): warning C4013: 'cvLoadImage' undefined; assuming extern returning int
+C:\Users\Arad Donenfeld\source\repos\GIFMaker\GIFMaker\functions.c(119,31): warning C4047: '=': 'IplImage *' differs in levels of indirection from 'int'
+  prog.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
+  view.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
+  Generating Code...
+  GIFMaker.vcxproj -> C:\Users\Arad Donenfeld\source\repos\GIFMaker\x64\Debug\GIFMaker.exe
